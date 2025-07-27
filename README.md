@@ -9,7 +9,7 @@ With **10+ years in design** and a technical background in **Information Systems
 `Figma` `Penpot` `Adobe XD` `Prototyping` `WCAG` `Design Systems` `Zeroheight` `Storybook`  
 
 **AI & Automation**  
-`AI Agent Design` `n8n` `LLM Integration` `Prompt Engineering` `Workflow Automation`
+`AI Agent Design` `n8n` `v0` `Prompt Engineering` `Workflow Automation`
 
 **Tech & Data**  
 `HTML/CSS` `JavaScript (Basics)` `React (Learning)` `Git`
